@@ -6,6 +6,10 @@
 
 }
 
+.carousel-item img {
+    filter: brightness(30%);
+}
+
 
 .btn {
 
@@ -13,6 +17,9 @@
 
 
 }
+
+
+
 
 
 @media (min-width:576px) {
